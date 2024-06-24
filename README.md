@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Daniel Hernández 👋
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología y el código abierto. Aquí puedes encontrar algunos de mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Soy un principiante en esto de la programación, espero poder ir avanzando y merjorando con el tiempo.
 
 ## Estadísticas de GitHub
 
