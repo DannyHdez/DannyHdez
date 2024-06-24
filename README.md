@@ -5,8 +5,8 @@ Bienvenido a mi perfil de GitHub. Soy un principiante en esto de la programació
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub de Daniel Hernández](https://github-readme-stats.vercel.app/api?username=DannyHdez&show_icons=true&theme=radical)
-(https://github-readme-streak-stats.herokuapp.com/?user=DannyHdez&theme=dark&hide_border=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHdez&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DannyHdez&theme=dark&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHdez&layout=compact&theme=dark&hide_border=true)
 
 ## Trofeos de GitHub
 
