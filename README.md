@@ -4,9 +4,23 @@ Bienvenido a mi perfil de GitHub. Soy un principiante en esto de la programació
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub de Daniel Hernández](https://github-readme-stats.vercel.app/api?username=DannyHdez&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DannyHdez&theme=dark&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHdez&layout=compact&theme=dark&hide_border=true)
+## Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DannyHdez&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub de Juan Perez" />
+</div>
+
+## Racha de GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DannyHdez&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## Lenguajes más usados
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHdez&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</div>
 
 ## Trofeos de GitHub
 
