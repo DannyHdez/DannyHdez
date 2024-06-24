@@ -4,11 +4,11 @@ Bienvenido a mi perfil de GitHub. Soy un principiante en esto de la programació
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub de Daniel Hernández](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub de Daniel Hernández](https://github-readme-stats.vercel.app/api?username=DannyHdez&show_icons=true&theme=radical)
 
 ## Trofeos de GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DannyHdez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **DannyHdez/DannyHdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
